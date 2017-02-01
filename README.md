@@ -18,7 +18,7 @@ Please observe the following:
 
 - The solution will need to be implemented in the Java language (7 or later)
 - Please don't use any libraries apart from the ones used for testing
-- Please don't use anything from java.util package (including ArrayList, HashMap etc)
+- Please don't use anything from java.util package (including HashSet, ArrayList, HashMap etc)
 - You can choose your build/project management system - we recommend you use Maven, if you use anything else please provide build instructions in a separate text file
 
 ## The task at hand
